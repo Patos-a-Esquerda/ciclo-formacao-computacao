@@ -33,3 +33,31 @@ Os temas abordados foram:
 ## Créditos
 
 O template utilizado nesta apresentação é baseado no "Sapienza Beamer Presentation Template", pode ser acessado clicando [**aqui**](https://www.overleaf.com/latex/templates/sapienza-presentation/yyksmrskffhk).
+
+## Cite este trabalho
+
+Se você escrever um artigo científico ou descrever seu projeto envolvendo este documento em uma página da web, eu ficaria muito grato se você pudesse adicionar uma referência à ele. Para facilitar, disponibilizo aqui alguns exemplos de citação, incluindo entradas em BibTex, APA e ABNT, que você pode usar em seus próprios documentos:
+
+### BibTex
+
+```bibtex
+@misc{MACIELPAE:2023,
+    author = {Maciel, Vinícius Fonseca},
+    title = {Computação, Infoproletariado e Liberdade Digital},
+    year = 2023,
+    url = {https://github.com/Patos-a-Esquerda/ciclo-formacao-computacao},
+    urlaccessdate = {15 out. 2023}
+}
+```
+
+### APA
+
+```plain
+Maciel, V. F. (2023). Computação, Infoproletariado e Liberdade Digital. Retrieved from https://github.com/Patos-a-Esquerda/ciclo-formacao-computacao.
+```
+
+### ABNT
+
+```plain
+MACIEL, V. F. Computação, Infoproletariado e Liberdade Digital. 2023. Disponível em: <https://github.com/Patos-a-Esquerda/ciclo-formacao-computacao>. Acessado em: 22 maio 2024.
+```
